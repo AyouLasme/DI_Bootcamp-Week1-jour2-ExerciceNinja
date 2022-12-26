@@ -151,6 +151,19 @@ input {
     margin-right: 0px;
 }
 
+.divligne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+hr{
+	border-color: grey;
+	width: 90px;
+	opacity: 0.5;
+}
+
+
 
 .panel1{
 	position: absolute;
